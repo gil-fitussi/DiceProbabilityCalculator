@@ -5,6 +5,7 @@ Question From - https://www.codingame.com/ide/puzzle/dice-probability-calculator
 The program takes an input expression (possibly with dice throws) and must print all possible outcomes along with their probabilities.
 
 The expression is an arithmetic expression with parentheses and the following operators, from highest to lowest precedence:
+
 (*) multiplication
 
 (+) and (-) addition and subtraction
