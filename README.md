@@ -6,11 +6,11 @@ The program takes an input expression (possibly with dice throws) and must print
 
 The expression is an arithmetic expression with parentheses and the following operators, from highest to lowest precedence:
 
-(*) multiplication
+* (*) multiplication
 
-(+) and (-) addition and subtraction
+* (+) and (-) addition and subtraction
 
-The operands are one of:
+* The operands are one of:
 n: a decimal positive integer
 dn: a 'd' followed by a strict positive number, representing a die throw from 1 to n by a uniform distribution
 
