@@ -15,6 +15,7 @@ n: a decimal positive integer
 dn: a 'd' followed by a strict positive number, representing a die throw from 1 to n by a uniform distribution
 
 Examples of expressions:
-3*2+5 evaluates to 11
-d6: evaluates to an integer from 1 to 6, uniform
-d6+d6: represents a double-dice throw
+
+* 3*2+5 evaluates to 11
+* d6: evaluates to an integer from 1 to 6, uniform
+* d6+d6: represents a double-dice throw
